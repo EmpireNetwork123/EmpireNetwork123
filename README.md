@@ -11,8 +11,6 @@ Building explainable NLP systems  for classification and interpretability. Also 
   Advancing my work on **LLM Applications** in security, healthcare etc, and reproducible ML pipelines.
 - 💬 **Ask me about:**  
   Explainable AI, Malware detection pipelines, Federated Learning , Parallel Programming,Hugging Face, Secure ML .
-- 😄 **Pronouns:**  
-  Engr. Eric Chinonso (he/him)
 - ⚡ **Fun fact:**  
   Beyond research and technology, I'm passionate about football — both on and off the pitch. A proud and loyal Arsenal fan.
 ## 🌐 Socials:
