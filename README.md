@@ -4,7 +4,7 @@ Email Me 👉 ✉️ **Ericchinonso1@outlook.com** For Collaboration/Project or 
 - 🔭 **I’m currently working on:**  
 Building explainable NLP systems  for classification and interpretability. Also exploring secure AI models for malware detection and adversarial robustness.
 - 👯 **I’m looking to collaborate on:**  
-  Research projects at the intersection of **Cybersecurity + AI/ML**:: secure NLP, Malware Analysis, or digital watermarking/provenance systems.
+  Research projects at the intersection of **Cybersecurity + AI/ML**:: secure NLP, Malware Analysis, or digital watermarking/provenance systems and more
 - ⚡ **Fun fact:**  
   Beyond research and technology, I'm passionate about football — both on and off the pitch. A proud and loyal Arsenal fan.
 ## 🌐 Socials:
