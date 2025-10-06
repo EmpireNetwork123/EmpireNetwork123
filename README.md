@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Low-level behavioral analysis of ransomware via API tracing, binary instrumentation. Developing and reproducing tools for software security and binary analysis.**
 
-- 👯 I’m looking to collaborate on **Open-source security tools related to binary analysis, Digital Forensic Investigations, or malware research. Research projects in software security, reverse engineering,Network Security and CPS/IoT security.**
+- 👯 I’m looking to collaborate on **Open-source security tools related to binary analysis, Digital Forensic Investigations. Research projects in software security, reverse engineering,Network Security, and CPS/IoT security.**
 
-- 👨‍💻 Project Profile: [https://empirenetwork123.github.io/](https://empirenetwork123.github.io/)
+- 👨‍💻 More About me: [https://empirenetwork123.github.io/](https://empirenetwork123.github.io/)
 
 - 📫 Contact me via: **Ericchinonso1@outlook.com**
 
