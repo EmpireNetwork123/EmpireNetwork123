@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ali Eric Chinonso</h1>
 <h3 align="center">PhD Applicant |Security Systems Researcher |Malware Binary Analysis |Cyber Forensics</h3>
 
-- 🔭 I’m currently working on **Low-level behavioral analysis of ransomware (API tracing, binary instrumentation). Developing and reproducing tools for software security and binary analysis. Exploring kernel-level security primitives and exploit mitigations.**
+- 🔭 I’m currently working on **Low-level behavioral analysis of ransomware via API tracing, binary instrumentation. Developing and reproducing tools for software security and binary analysis.**
 
-- 👯 I’m looking to collaborate on **Open-source security tools related to binary analysis, fuzzing, or malware research. Research projects in software security, reverse engineering, and cyber-physical systems security.**
+- 👯 I’m looking to collaborate on **Open-source security tools related to binary analysis, Digital Forensic Investigations, or malware research. Research projects in software security, reverse engineering,Network Security and CPS/IoT security.**
 
-- 👨‍💻 All of my projects are available at [https://empirenetwork123.github.io/](https://empirenetwork123.github.io/)
+- 👨‍💻 Project Profile: [https://empirenetwork123.github.io/](https://empirenetwork123.github.io/)
 
 - 📫 How to reach me **Ericchinonso1@outlook.com**
 
-- ⚡ Fun fact **A proud and loyal Arsenal fan.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun Fact: **A proud and loyal Arsenal fan.**
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
