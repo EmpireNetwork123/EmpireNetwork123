@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ali Eric Chinonso</h1>
-<h3 align="left">PhD Applicant |Security Systems Researcher |Malware Binary Analysis |Cyber Forensics</h3>
+<h3 align="left">PhD Applicant |information & Systems Security Researcher |Malware Binary Analysis |Cyber Forensics</h3>
 
 - 🔭 I’m currently working on **Low-level behavioral analysis of ransomware via API tracing, binary instrumentation. Developing and reproducing tools for software security and binary analysis.**
 
