@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Eric Chinonso</h1>
-<h3 align="center">PhD Applicant |Security Systems Researcher |Malware Binary Analysis |Cyber Forensics</h3>
+<h1 align="left">Hi 👋, I'm Ali Eric Chinonso</h1>
+<h3 align="left">PhD Applicant |Security Systems Researcher |Malware Binary Analysis |Cyber Forensics</h3>
 
 - 🔭 I’m currently working on **Low-level behavioral analysis of ransomware via API tracing, binary instrumentation. Developing and reproducing tools for software security and binary analysis.**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 Project Profile: [https://empirenetwork123.github.io/](https://empirenetwork123.github.io/)
 
-- 📫 How to reach me **Ericchinonso1@outlook.com**
+- 📫 Contact me via: **Ericchinonso1@outlook.com**
 
 - ⚡ Fun Fact: **A proud and loyal Arsenal fan.**
 <div align="center">
